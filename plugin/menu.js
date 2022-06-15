@@ -53,8 +53,8 @@ Hai, %ucapan %name! 👋
   body: ' • %cmd %islimit %isPremium',
   footer: '\n',
   after: `*Made by ♡*
-*%npmname* | %version
-${'```%npmdesc```'}
+*E D O* | %version
+${'```WhatsApp Multi Device```'}
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p }) => {
